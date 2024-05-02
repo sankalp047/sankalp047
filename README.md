@@ -33,8 +33,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-<!--
 
+
+I am passionate about leveraging software solutions to enhance and streamline communication systems. My skills include programming in Python and Java, and I am continuously exploring new technologies to better understand the evolving landscape of digital communication.
+
+"Technology is best when it brings people together." - I believe in using my skills to develop solutions that not only solve complex problems but also connect people and improve their lives. Whether it’s through improving network efficiencies or developing innovative applications, my goal is to make a tangible impact in the tech world.
+<!--
 - 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
