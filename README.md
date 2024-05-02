@@ -141,7 +141,7 @@ I am passionate about leveraging software solutions to enhance and streamline co
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-//<h3 align="left">Activity:</h3>
+<!--<h3 align="left">Activity:</h3>-->
 
 ![Sankalp's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sankalp047&custom_title=Sankalp's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
