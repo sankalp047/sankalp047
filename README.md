@@ -2,7 +2,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Sankalp Singh</h1>
-<h3 align="center">A passionate Software Programmer with Networking Knowledge from Dallas, Texas ![image](https://github.com/sankalp047/sankalp047/assets/38282659/fac4368f-6fd9-4b6c-81a0-a062e9ea4203)
+<h3 align="center">A passionate Software Programmer with Networking Knowledge from Dallas, Texas!
  </h3>
 <p align="center">Hello! I’m a technology enthusiast with a solid foundation in networking and software development. My academic background and professional experiences have equipped me with a robust understanding of both traditional and cutting-edge network technologies, including 4G and 5G Core networks. 🛠️</p>
 <p align="center"> 
