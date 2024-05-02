@@ -6,7 +6,7 @@
  </h3>
 <p align="center">Hello! I’m a technology enthusiast with a solid foundation in networking and software development. My academic background and professional experiences have equipped me with a robust understanding of both traditional and cutting-edge network technologies, including 4G and 5G Core networks. 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Sankalp Singh" /> 
+ <img src="https://komarev.com/ghpvc/?username=sankalp047&label=Profile%20views&color=0e75b6&style=flat" alt="Sankalp Singh" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
