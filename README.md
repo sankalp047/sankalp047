@@ -1,93 +1,97 @@
 ![logo](logo-git.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 
-<h1 align="center">Hi 👋, I'm Sankalp Singh</h1>
-<h3 align="center">A Data Analyst from Dallas, Texas 📊</h3>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" />
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" />
 
-<p align="center">
-Hello! I'm a data enthusiast with 4+ years of experience turning raw data into actionable insights. I specialize in SQL, Python, Tableau, and Power BI to help businesses make data-driven decisions.
-</p>
+<h1 align="center">👋 Hi, I’m Sankalp Singh</h1>
+<h3 align="center">🧮 Data Analyst | Transforming Data into Strategic Growth</h3>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=sankalp047&label=Profile%20views&color=0e75b6&style=flat" alt="Sankalp Singh" />
+  📍 Dallas, TX • 📧 <a href="mailto:sankalps8682@gmail.com">sankalps8682@gmail.com</a> • 📞 469‑777‑8161
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sankalpsandeepsingh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sankalp047" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sankalpfitness/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 Core Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,r,tableau,powerbi,aws" />
-</div>
+## 📄 Professional Summary
+Data Analyst with **4+ years** of professional experience driving business impact through data management, advanced analytics, and visualization. Expert in building ETL pipelines, crafting interactive dashboards, and applying statistical models to solve complex business challenges.
 
 ---
 
-### 🔧 Tools & Technologies
-
-#### 📊 Data & Analysis
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql" />
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi" />
-  <img src="https://skillicons.dev/icons?i=excel" />
-</p>
-
-#### 💽 Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-  <img src="https://skillicons.dev/icons?i=oracle" />
-</p>
-
-#### ☁️ Cloud & Big Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=hadoop" />
-  <img src="https://skillicons.dev/icons?i=spark" />
-</p>
-
-#### 🛠️ ETL & Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://skillicons.dev/icons?i=postman,vscode" />
+## 🛠️ Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,r,excel" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redshift" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=spark,hadoop" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalp047&theme=midnight-purple&show_icons=true" />
+## 🌟 Highlights
+- **200+ SQL Queries**: Extracted and manipulated data from multi-terabyte warehouses (Redshift, Oracle).  
+- **Dashboard Excellence**: Delivered **30+** Tableau & Power BI dashboards with 95% stakeholder adoption.  
+- **ETL Automation**: Designed Talend, SSIS & Python pipelines saving **10+ hours/week**.  
+- **Predictive Analytics**: Built churn & enrollment models with **>90% accuracy**.
+
+---
+
+## 🚀 Featured Projects
+| Project                         | Tech Stack                | Outcome                                                    |
+| ------------------------------- | ------------------------- | ---------------------------------------------------------- |
+| **Churn Prediction**            | Python · SQL · Tableau    | Reduced churn by **15%** via targeted retention strategies |
+| **Sales Performance**           | SQL · Power BI            | Automated KPI reporting, saving **8h/week**                |
+| **Enrollment Trends Forecast**  | R · Power BI              | Achieved **92%** forecast accuracy for planning            |
+| **End-to-End ETL Automation**   | Talend · Python · SSIS    | Centralized 5 data sources, improved data quality by 40%   |
+
+---
+
+## 🎓 Education
+**M.S. in Computer Science** • University of Texas at Arlington (2021–2023)  
+**B.S. in Computer Science** • Rajiv Gandhi Proudyogiki Vishwavidyalaya (2016–2020)
+
+---
+
+## 🏆 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Certified_Developer_Associate-232F3E?logo=amazonaws&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tableau_Desktop_Specialist-512E5F?logo=tableau&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalp047&theme=midnight-purple&show_icons=true&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=sankalp047&theme=midnight-purple" />
-</div>
-
----
-
-### 📊 Projects
-
-- **Customer Churn Prediction**  
-  Used logistic regression and Python to predict churn and designed Tableau dashboards for business users.
-
-- **Sales Performance Analysis**  
-  Built SQL and Power BI dashboards to track KPIs and automate sales reporting workflows.
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/sankalpsandeepsingh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100011069882280" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/sankalpfitness/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalp047&theme=midnight-purple&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
+## 🤝 Let’s Connect
 <p align="center">
-  <em>"Turning numbers into narratives that drive action."</em>
+  <a href="mailto:sankalps8682@gmail.com">✉️ Email</a> •
+  <a href="https://linkedin.com/in/sankalpsandeepsingh">💼 LinkedIn</a> •
+  <a href="https://github.com/sankalp047">🐙 GitHub</a>
 </p>
 
-<p align="right">Created by <a href="http://sankalpsinghrajput.com">Sankalp Singh</a></p>
+---
+
+<p align="center"><em>“Data is a narrative—let’s write the next chapter together.”</em></p>
