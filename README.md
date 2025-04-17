@@ -92,7 +92,7 @@ Data Analyst with **4+ years** of professional experience driving business impac
 ## 🤝 Let’s Connect
 <p align="center">
   <a href="mailto:sankalps8682@gmail.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/sankalpsandeepsingh">💼 LinkedIn</a> •
+  <a href="https://linkedin.com/in/sankalps8682">💼 LinkedIn</a> •
   <a href="https://github.com/sankalp047">🐙 GitHub</a>
 </p>
 
