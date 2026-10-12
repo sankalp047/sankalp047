@@ -129,7 +129,7 @@ Cross-platform earns its keep when the product is mostly forms over an API and t
 <div align="center">
 <sub>
 
-Fort Worth, Texas · [sankalpsandeepsingh@gmail.com](mailto:sankalpsandeepsingh@gmail.com) · [LinkedIn](https://linkedin.com/in/sankalpsandeepsingh)
+[sankalpsandeepsingh@gmail.com](mailto:sankalpsandeepsingh@gmail.com) · [LinkedIn](https://linkedin.com/in/sankalpsandeepsingh)
 
 </sub>
 </div>
