@@ -1,101 +1,53 @@
-![logo](logo-git3.png)
+# Sankalp Sandeep Singh
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" />
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" />
+Mobile engineer in Fort Worth, Texas. I write Kotlin and Swift, and I've built the
+same audio-streaming product natively on both platforms.
 
-<h1 align="center">👋 Hi, I’m Sankalp Singh</h1>
-<h3 align="center">🧮 Data Analyst | Transforming Data into Strategic Growth</h3>
+I've also shipped Flutter and React Native apps, and then rewritten one of them
+natively from scratch — which is why I have specific opinions about when the
+cross-platform trade pays for itself and when it quietly costs more than it saves.
 
-<p align="center">
-  📍 Dallas, TX • 📧 <a href="mailto:sankalps8682@gmail.com">sankalps8682@gmail.com</a> • 📞 469‑777‑8161
-</p>
+The hard part of streaming was never the UI. It's playback that survives
+backgrounding, call interruptions, Bluetooth route changes and a network that drops
+mid-buffer. Building it twice also means making every product decision twice against
+two different frameworks — and occasionally concluding that one platform has no
+equivalent at all, so the screen should honestly work differently there rather than
+pretend.
 
-<p align="center">
-  <a href="https://linkedin.com/in/sankalps8682" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sankalp047" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/sankalpfitness/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-</p>
+### What I work on
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sankalp047&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+- **Media pipelines** — Media3 `MediaLibraryService` and `MediaSession`, background
+  playback, lock-screen and notification controls, Android Auto
+- **Device integration** — BLE GATT, HealthKit, WatchConnectivity, WidgetKit,
+  Live Activities
+- **Both platforms in parallel** — Kotlin/Compose and Swift/SwiftUI, including
+  porting a `Flow`-based architecture onto Swift Concurrency without translating it
+  line for line
 
----
+### Worth reading
 
-## 📄 Professional Summary
-Data Analyst with **4+ years** of professional experience driving business impact through data management, advanced analytics, and visualization. Expert in building ETL pipelines, crafting interactive dashboards, and applying statistical models to solve complex business challenges.
+**[smart-calories](https://github.com/sankalp047/smart-calories)** — nutrition and
+body-composition tracking across iPhone, Apple Watch and the Home Screen. ~13,000
+lines of Swift, **zero third-party dependencies**. That's a design position, not a
+boast: it's why state is `@Observable` rather than Combine, and why there's no Core
+Data. It also pairs with Bluetooth kitchen scales that implement no standard profile,
+by solving their frame layout from two known weights.
 
----
+**[engineering-notes](https://github.com/sankalp047/engineering-notes)** —
+architecture write-ups on production work whose source isn't mine to publish:
+patterns, public APIs and my own illustrative code, no employer source. Currently one
+service and one player for all audio, and what actually breaks when you port Kotlin
+`Flow` to Swift Concurrency.
 
-## 🛠️ Tech & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,r,excel" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redshift" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=spark,hadoop" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
+### Elsewhere
 
----
+Co-author of a peer-reviewed county-level COVID-19 dataset covering all 3,142 US
+counties.
 
-## 🌟 Highlights
-- **200+ SQL Queries**: Extracted and manipulated data from multi-terabyte warehouses (Redshift, Oracle).  
-- **Dashboard Excellence**: Delivered **30+** Tableau & Power BI dashboards with 95% stakeholder adoption.  
-- **ETL Automation**: Designed Talend, SSIS & Python pipelines saving **10+ hours/week**.  
-- **Predictive Analytics**: Built churn & enrollment models with **>90% accuracy**.
+M.S. Computer Science, University of Texas at Arlington.
+
+Shipped: BigFan (Android — Kotlin, Compose, Media3) · Radio Sangam · FPK Pass.
 
 ---
 
-## 🚀 Featured Projects
-| Project                         | Tech Stack                | Outcome                                                    |
-| ------------------------------- | ------------------------- | ---------------------------------------------------------- |
-| **Churn Prediction**            | Python · SQL · Tableau    | Reduced churn by **15%** via targeted retention strategies |
-| **Sales Performance**           | SQL · Power BI            | Automated KPI reporting, saving **8h/week**                |
-| **Enrollment Trends Forecast**  | R · Power BI              | Achieved **92%** forecast accuracy for planning            |
-| **End-to-End ETL Automation**   | Talend · Python · SSIS    | Centralized 5 data sources, improved data quality by 40%   |
-
----
-
-## 🎓 Education
-**M.S. in Computer Science** • University of Texas at Arlington (2021–2023)  
-**B.S. in Computer Science** • Rajiv Gandhi Proudyogiki Vishwavidyalaya (2016–2020)
-
----
-
-## 🏆 Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified_Developer_Associate-232F3E?logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tableau_Desktop_Specialist-512E5F?logo=tableau&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalp047&theme=midnight-purple&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalp047&theme=midnight-purple&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🤝 Let’s Connect
-<p align="center">
-  <a href="mailto:sankalps8682@gmail.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/sankalps8682">💼 LinkedIn</a> •
-  <a href="https://github.com/sankalp047">🐙 GitHub</a>
-</p>
-
----
-
-<p align="center"><em>“Data is a narrative—let’s write the next chapter together.”</em></p>
+<sankalpsandeepsingh@gmail.com> · [LinkedIn](https://linkedin.com/in/sankalpsandeepsingh)
